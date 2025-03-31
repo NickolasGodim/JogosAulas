@@ -62,7 +62,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AtmosphereThickness: 1.36
+    - _AtmosphereThickness: 0.94
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
@@ -79,14 +79,14 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _SunDisk: 2
-    - _SunSize: 0.048
-    - _SunSizeConvergence: 4.71
+    - _SunSize: 0.042
+    - _SunSizeConvergence: 6.35
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _GroundColor: {r: 0.23429158, g: 0.35415468, b: 0.764151, a: 1}
-    - _SkyTint: {r: 0, g: 0, b: 0, a: 1}
+    - _GroundColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SkyTint: {r: 0.093983635, g: 0.6037736, b: 0.48556146, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
